@@ -22,7 +22,7 @@
 
 	<!-- campo del form per la password -->
 	<label for="password">Password</label>
-	<input type="password" name="password" id="password"
+	<input type="password" name="password" id="password">
 	<br/>
 
 	<button type="submit">Login</button>
