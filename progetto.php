@@ -3,7 +3,7 @@
     <head>
 	<title>Progetto amm</title>
 	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
-	<link rel="shortcut icon" type="image/x-icon" href="../immagini/iconasegnalibro.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="../Immagini/iconasegnalibro.ico" />
 	<link href="../css/stile.css" rel="stylesheet" type="text/css" media="screen" />
 	
 
