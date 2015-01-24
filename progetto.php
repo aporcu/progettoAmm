@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+	<title>Progetto amm</title>
 	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
-	
+	<link rel="shortcut icon" type="image/x-icon" href="../immagini/iconasegnalibro.ico" />
+	<link href="../css/stile.css" rel="stylesheet" type="text/css" media="screen" />
 	
 
     </head>
@@ -16,7 +18,7 @@
 	<form method="post" action="login">
 	
 	<!-- campo del form per lo username  -->
-	<label for="nome">Nome</label>                       
+	<label for="nome">Nome Utente</label>                       
 	<input name="nome" id="matricola" type="text"/>
 	<br/>
 
