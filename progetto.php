@@ -11,7 +11,7 @@
 
     <body>
   
-	<div class="form-input">    
+	<div class="formlog">    
 	<h2>Login</h2>
 	<br/>       
 	
