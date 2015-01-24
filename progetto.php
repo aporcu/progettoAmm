@@ -3,8 +3,8 @@
     <head>
 	<title>Progetto amm</title>
 	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
-	<link rel="shortcut icon" type="image/x-icon" href="Immagini/Goomba.ico" />
-	<link href="../css/stile.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="shortcut icon" type="image/x-icon" href="Immagini/   .ico" />
+	<link href="../Css/stile.css" rel="stylesheet" type="text/css" media="screen" />
 	
 
     </head>
