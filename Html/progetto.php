@@ -29,10 +29,10 @@
 		</form>
 
 	<!-- Footer -->
-	<div class:"w3">
+	
 	<p>
 		<a href="http://validator.w3.org/check/referer" title="HTML Valido"> HTML validator </a>
-		
+
 
 
 
