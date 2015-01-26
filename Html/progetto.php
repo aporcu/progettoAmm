@@ -9,6 +9,12 @@
 	</head>
 
     <body>
+
+    <!-- Header -->
+    	<header>
+    		<img title="logo" alt="logo Cucina" src="../Immagini/logo.jpg"
+    		<h1> Cucina</h1>
+    	</header>
     
 	   	<h2>Login</h2>
 		<br/>       
@@ -30,10 +36,10 @@
 
 	
 	<!-- Footer -->
-	<p>
-		<a href="http://validator.w3.org/check/referer" title="HTML Valido" target="_blank"> HTML Validator </a>
-		<a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>
-	</p>
+		<p>
+			<a href="http://validator.w3.org/check/referer" title="HTML Valido" target="_blank"> HTML Validator </a>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>
+		</p>
 
 
 
