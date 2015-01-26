@@ -3,7 +3,7 @@
     <head>
 	   	<title>Progetto amm</title>
 	   	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
-	   	<link rel="shortcut icon" type="image/x-icon" href="../Immagini/   .ico" />
+	   	<link rel="shortcut icon" type="image/x-icon" href="../Immagini/icon.ico" />
 	   	<link href="../Css/stile.css" rel="stylesheet" type="text/css" media="screen" />
 	
 	</head>
@@ -28,13 +28,11 @@
 			<button type="submit">Login</button>
 		</form>
 
-	<!-- Footer -->
 	
+	<!-- Footer -->
 	<p>
 		<a href="http://validator.w3.org/check/referer" title="HTML Valido" target="_blank"> HTML Validator </a>
-
-		 <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>
-
+		<a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>
 	</p>
 
 
