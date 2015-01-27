@@ -3,6 +3,10 @@ body {
 	font: 13px/20px Arial, sans-serif;
 	}
 
+#logoimg {
+	float:left;
+	}
+
 h1 {
 	color: #20A9DB;
 	font: 30px Arial;
@@ -10,11 +14,10 @@ h1 {
 
 /*css per link*/
 a:visited {
-	color: red;
+	color: #7C1AC6;
 	}
 a:hover {
 	font-weight: bold;
-	font-style: italic;
 	}
 
 li {
