@@ -20,10 +20,6 @@ li {
 	list-style-type: circle;
 	}
 
-a[rel="home"] {
-	text-decoration: none;
-	}
-
 
 #sidebar {
     float: left;

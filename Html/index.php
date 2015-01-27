@@ -13,7 +13,7 @@
     <!-- Header -->
     	<header>
     		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-    		<a rel="home" href="../Html/index.php"><h1> Cucina </h1></a>
+    		<a href="../Html/index.php"><h1> Cucina </h1></a>
     	</header>
     
 	<!-- Sidebar -->
