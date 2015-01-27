@@ -9,7 +9,7 @@ h1 {
 	}
 
 /*css per link*/
-a:link h1 {
+a[rel="home"}] {
 	text-decoration: none;
 	}
 a:visited {
