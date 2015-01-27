@@ -17,9 +17,14 @@ a:hover {
 	font-style: italic;
 	}
 
+li {
+	list-style-type: circle;
+}
+
+
 #sidebar {
         float: left;
         width: 200px;
-        padding-left: 5px;
-        padding-right: 10px;
+        padding-left: 10px;
+        padding-right: 15px;
 	}
