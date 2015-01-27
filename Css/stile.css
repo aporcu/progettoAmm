@@ -8,6 +8,11 @@ h1 {
 	font: 30px Arial;
 	}
 
-a:hover {
+/*css per link*/
+a:visited {
 	color: blue;
+}
+
+a:hover {
+	font-weight: bold italic;
 }
