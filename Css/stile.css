@@ -3,10 +3,6 @@ body {
 	font: 13px/20px Arial, sans-serif;
 	}
 
-#logoimg {
-	float:left;
-	}
-
 h1 {
 	color: #20A9DB;
 	font: 30px Arial;
@@ -27,7 +23,4 @@ li {
 
 #sidebar {
         float: left;
-        width: 200px;
-        padding-left: 10px;
-        padding-right: 15px;
 	}
