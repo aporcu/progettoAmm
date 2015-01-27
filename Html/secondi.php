@@ -12,7 +12,7 @@
 
     <!-- Header -->
     	<header>
-    		<img title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" witdh="175" height="132"/>
+    		<img title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
     		<h1> Cucina</h1>
     	</header>
     
