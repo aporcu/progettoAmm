@@ -26,7 +26,10 @@ li {
 	}
 
 #formlog {
-	position: relative;
-	left: 130px;
-	bottom: 30px;
-	}
+	margin-left: 21%;
+        margin-right: 21%;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        min-height: 300px;
+
+       }
