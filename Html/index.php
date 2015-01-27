@@ -13,16 +13,16 @@
     <!-- Header -->
     	<header>
     		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-    		<h1> Cucina</h1>
+    		<a href="../Html/index.php"><h1> Cucina </h1></a>
     	</header>
     
 	<!-- Sidebar -->
 		<div id="sidebar">
 			<h2 class="sidetitle">Navigazione</h2>
 			<ul>
-				<li><a href="../Html/primi.php">Primi Piatti</a></li>
-				<li><a href="../Html/secondi.php">Secondi Piatti</a></li>
-				<li><a href="../Html/desserts.php">Desserts</a></li>
+				<li><a href="../Html/primi.php">Primi Piatti </a></li>
+				<li><a href="../Html/secondi.php">Secondi Piatti </a></li>
+				<li><a href="../Html/desserts.php">Desserts </a></li>
 			</ul>
 		</div>
 	   	
