@@ -24,10 +24,10 @@
 				<li><a href="../Html/secondi.php">Secondi Piatti</a></li>
 				<li><a href="../Html/desserts.php">Desserts</a></li>
 			</ul>
-
+		</div>
 	   	
 
-
+		<div id="formlog">
 
 	   	<h2>Login</h2>
 		<br/>       
@@ -35,7 +35,7 @@
 		<form method="post" action="login">
 	
 			<!-- campo del form per lo username  -->
-			<label for="nome">Nome Utente</label>                       
+			<label for="nome">Username</label>                       
 			<input name="nome" id="nome" type="text"/>
 			<br/>
 
@@ -46,7 +46,7 @@
 
 			<button type="submit">Login</button>
 		</form>
-
+		</div>
 	
 	<!-- Footer -->
 		<p>
