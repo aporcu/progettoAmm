@@ -11,8 +11,15 @@ h1 {
 /*css per link*/
 a:visited {
 	color: red;
-}
+	}
 a:hover {
 	font-weight: bold;
 	font-style: italic;
-}
+	}
+
+#sidebar1 {
+        float: left;
+        width: 200px;
+        padding-left: 5px;
+        padding-right: 10px;
+	}
