@@ -10,7 +10,7 @@ h1 {
 
 /*css per link*/
 a:visited {
-	color: blue;
+	color: violet;
 }
 a:hover {
 	font-weight: bold;
