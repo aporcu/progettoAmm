@@ -9,6 +9,9 @@ h1 {
 	}
 
 /*css per link*/
+a:link {
+	text-decoration: none;
+	}
 a:visited {
 	color: #7C1AC6;
 	}
