@@ -9,9 +9,6 @@ h1 {
 	}
 
 /*css per link*/
-a[rel="home"] {
-	text-decoration: none;
-	}
 a:visited {
 	color: #7C1AC6;
 	}
@@ -21,6 +18,10 @@ a:hover {
 
 li {
 	list-style-type: circle;
+	}
+
+a[rel="home"] {
+	text-decoration: none;
 	}
 
 
