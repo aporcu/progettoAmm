@@ -16,45 +16,47 @@
     		<center><img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/></center>
   			<center> Cucina </center>
     	</div>
-    
+    	
+    	<div id="contenuto">
 
-	<!-- Sidebar sinistra-->
-		<div id="sidebar">
-			<h2 class="sidetitle">Navigazione</h2>
-			<ul>
-				<li><a href="../Html/index.php">Home </a></li>
-			</ul>
-		</div>
+			<!-- Sidebar sinistra-->
+			<div id="sidebar">
+				<h2 class="sidetitle">Navigazione</h2>
+				<ul>
+					<li><a href="../Html/index.php">Home </a></li>
+				</ul>
+			</div>
 
-	<!-- Sidebar destra -->
-		<div id="sidebar2">
+			<!-- Sidebar destra -->
+			<div id="sidebar2">
 
-		</div>	
+			</div>	
 
-		<div id="content">
+			<div id="content">
 
-	   	<h2>Login</h2>
-		<br/>       
+	   			<h2>Login</h2>
+				<br/>       
 	
-
-		<form method="post" action="login">
+			<div id="content">
+				<form method="post" action="login">
 	
-			<!-- campo del form per lo username  -->
-			<label for="nome">Username</label>                       
-			<input name="nome" id="nome" type="text"/>
-			<br/>
+				<!-- campo del form per lo username  -->
+				<label for="nome">Username</label>                       
+				<input name="nome" id="nome" type="text"/>
+				<br/>
 
-			<!-- campo del form per la password -->
-			<label for="password">Password</label>
-			<input type="password" name="password" id="password">
-			<br/>
+				<!-- campo del form per la password -->
+				<label for="password">Password</label>
+				<input type="password" name="password" id="password">
+				<br/>
 
-			<button type="submit">Login</button>
-		</form>
-		</div>
-	
+				<button type="submit">Login</button>
+				</form>
+			</div>
 
-	<!-- Footer -->
+			</div>
+
+		<!-- Footer -->
 		<footer>
 		<div id="footer">
 			<p>
