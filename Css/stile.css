@@ -24,6 +24,7 @@ li {
 
 
 #sidebar {
+	background-color: white;
     float: left;
-    height: 10%;
+    height: 100%;
 	}
