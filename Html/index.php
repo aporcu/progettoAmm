@@ -29,7 +29,7 @@
 
 			<!-- Sidebar destra -->
 			<div id="sidebar2">
-
+				
 			</div>	
 
 			<div id="content">
