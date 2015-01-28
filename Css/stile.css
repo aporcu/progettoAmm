@@ -7,7 +7,7 @@
 
 #header {
 	color: #43161B;
-	font: 50px ;
+	font: 150px, Arial;
 	}
 
 /*css per link*/
@@ -24,7 +24,7 @@ li {
 
 
 #sidebar {
-	width: 100px;
+	width: 20%;
 	color: #43161B;
 	background-color: white;
     float: left;
@@ -32,7 +32,7 @@ li {
 	}
 
 #sidebar2 {
-	width: 100px;
+	width: 20%;
 	color: #43161B;
 	background-color: white;
     float: right;
