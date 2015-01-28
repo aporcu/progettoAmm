@@ -7,7 +7,7 @@ body {
 	float: left;
 	}	
 
-header {
+#header {
 	display: block;
 	color: #1CBD3C;
 	font: 30px Arial;
@@ -27,6 +27,5 @@ li {
 
 
 #sidebar {
-	display: inline-block;
     float: left;
 	}
