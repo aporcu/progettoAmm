@@ -11,22 +11,25 @@
     <body>
 
     <!-- Header -->
-    	<header>
+  
     	<div id="header">
     		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
     		<h1>Cucina</h1>
     	</div>
-    	</header>
     
 
-	<!-- Sidebar -->
+	<!-- Sidebar sinistra-->
 		<div id="sidebar">
 			<h2 class="sidetitle">Navigazione</h2>
 			<ul>
 				<li><a href="../Html/index.php">Home </a></li>
 			</ul>
 		</div>
-	   	
+
+	<!-- Sidebar destra -->
+		<div id="sidebar2">
+
+		</div>	
 
 		<div id="content">
 
