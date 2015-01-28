@@ -28,6 +28,7 @@
 		</div>
 
 	<div id="content">
+	
 
 		<form method="post" action="aggiungi">	
 			<h2> Aggiungi una ricetta </h2>
