@@ -8,6 +8,7 @@
 #header {
 	color: #43161B;
 	font: 3em Arial;
+	text-align: center;
 	}
 
 /*css per link*/
@@ -37,5 +38,10 @@ li {
 	background-color: white;
     float: right;
     height: 100%;
+	}
+
+#footer {
+	height: 150px;
+	text-align: center;
 	}
 

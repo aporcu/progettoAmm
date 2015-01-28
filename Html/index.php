@@ -13,8 +13,8 @@
     <!-- Header -->
   
     	<div id="header">
-    		<center><img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/></center>
-  			<center> Cucina </center>
+    		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
+  			Cucina
     	</div>
     	
     	<div id="contenuto">
@@ -29,7 +29,7 @@
 
 			<!-- Sidebar destra -->
 			<div id="sidebar2">
-				
+
 			</div>	
 
 			<div id="content">
