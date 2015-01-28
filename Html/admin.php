@@ -13,7 +13,7 @@
     <!-- Header -->
     	<header>
     		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-    		<a href="../Html/index.php"><h1> Cucina </h1></a>
+    		<h1> Cucina </h1>
     	</header>
     
 	<!-- Sidebar -->
@@ -28,7 +28,7 @@
 		</div>
 
 	<div id="content">
-	
+
 
 		<form method="post" action="aggiungi">	
 			<h2> Aggiungi una ricetta </h2>

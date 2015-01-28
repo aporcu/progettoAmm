@@ -14,7 +14,7 @@
     	<header>
     	<div id="header">
     		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-    		<a href="../Html/index.php">Cucina</a>
+    		<h1>Cucina</h1>
     	</div>
     	</header>
     
