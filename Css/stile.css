@@ -3,6 +3,10 @@ body {
 	font: 13px/20px Arial, sans-serif;
 	}
 
+#logoimg {
+	float: left;
+	}
+
 header {
 	color: #1CBD3C;
 	font: 30px Arial;
