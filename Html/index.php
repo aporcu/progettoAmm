@@ -13,8 +13,8 @@
     <!-- Header -->
   
     	<div id="header">
-    		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-  			<center> Cucina </center>
+    		<span><img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/></span>
+  			<span><center> Cucina </center></span>
     	</div>
     
 
