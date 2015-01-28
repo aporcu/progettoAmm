@@ -2,7 +2,11 @@ body {
 	background-color: white;
 	font: 13px/20px Arial, sans-serif;
 	}
-
+#nomesito {
+	position: relative;
+	border-left: 50px;
+	border-top: 5px;
+	}
 
 #header {
 	background-color: black;
