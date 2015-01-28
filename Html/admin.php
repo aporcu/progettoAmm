@@ -53,7 +53,7 @@
 				<p>
 					<!-- Input per la descrizione della ricetta -->
 					<label for="descrizione"> Spiegazione ricetta </label>
-					<textarea rows="10" cols="30" name="descrizione" id="descrizione">
+					<textarea rows="15" cols="45" name="descrizione" id="descrizione">
 						Spiega la preparazione
 					</textarea>
 
