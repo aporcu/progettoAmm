@@ -7,8 +7,7 @@
 
 #header {
 	color: #43161B;
-	font: 50px Arial;
-	text-shadow: 2px 2px black;
+	font: 50px ;
 	}
 
 /*css per link*/
@@ -30,3 +29,11 @@ li {
     float: left;
     height: 100%;
 	}
+
+#sidebar2 {
+	color: #43161B;
+	background-color: white;
+    float: right;
+    height: 100%;
+	}
+
