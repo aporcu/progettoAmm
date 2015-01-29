@@ -10,26 +10,22 @@
 
     <body>
 
-    <!-- Header -->
-  
-    	<?php 
+    	<!-- Header richiamato con una include -->
+      	<?php 
     		include ("../Html/header.php")
     	?>
     	
     	<div id="contenuto">
 
-			<!-- Sidebar sinistra-->
-			<div id="sidebar">
-				<h2 class="sidetitle">Navigazione</h2>
-				<ul>
-					<li><a href="../Html/index.php">Home </a></li>
-				</ul>
-			</div>
+			<!-- Sidebar sinistra richiamata con una include -->
+			<?php 
+				include ("../Html/sidebar.php")
+			?>
 
-			<!-- Sidebar destra -->
-			<div id="sidebar2">
-
-			</div>	
+			<!-- Sidebar destra richiamata con una include -->
+			<?php
+				include ("../Html/sidebar2.php")
+			?>
 
 			<div id="content">
 
@@ -54,13 +50,10 @@
 
 		</div>
 
-		<!-- Footer -->
-		<div id="footer">
-			<p>
-				<a href="http://validator.w3.org/check/referer" title="HTML Valido" target="_blank"> HTML Validator </a>   <!-- Validatore Html -->
-				<a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>  <!-- Validatore Css -->
-			</p>
-		</div>
+		<!-- Footer richiamato con una include -->
+		<?php
+			include ("../Html/footer.php")
+		?>
 
 	</body>
 </html>
