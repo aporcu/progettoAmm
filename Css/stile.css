@@ -1,5 +1,10 @@
-#contenuto {
+body {
 	height: 800px;
+	width: 600px;
+}
+
+#contenuto {
+	height: 50%;
 	background-color: #260D10;
 	font: 13px/20px Arial, sans-serif;
 	color: white;
