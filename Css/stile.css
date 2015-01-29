@@ -45,6 +45,11 @@ li {
 	text-align: center;
 	}
 
-#content {
-	content: center;
-	}
+ #content {
+        margin-left: 21%;
+        margin-right: 21%;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        min-height: 300px;
+    }
+
