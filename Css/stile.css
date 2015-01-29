@@ -33,7 +33,7 @@ li {
 
 
 #sidebar {
-	width: 10%;
+	width: 100%;
 	color: #43161B;
 	background-color: white;
     float: left;
@@ -41,7 +41,7 @@ li {
 	}
 
 #sidebar2 {
-	width: 10%;
+	width: 100%;
 	color: #43161B;
 	background-color: white;
     float: right;
