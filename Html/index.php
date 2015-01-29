@@ -15,7 +15,9 @@
     		include ("../Html/header.php")   
     	?>
     	
-    	<!-- Sidebar sinistra richiamata con una include -->
+    	<div id="contenuto">
+
+			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
 				include ("../Html/sidebar.php")
 			?>
@@ -24,8 +26,6 @@
 			<?php
 				include ("../Html/sidebar2.php")
 			?>
-
-    	<div id="contenuto">
 
 			<div id="content">
 
