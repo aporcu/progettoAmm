@@ -15,16 +15,18 @@
     		include ("../Html/header.php")
     	?>
     
-		<!-- Sidebar richiamata con una include -->
-		<?php 
+    	<div id="contenuto">
+			<!-- Sidebar richiamata con una include -->
+			<?php 
 				include ("../Html/sidebaruser.php")
-		?>
+			?>
 
-		<!-- Sidebar destra richiamata con una include -->
-		<?php
-			include ("../Html/sidebar2.php")
-		?>
+			<!-- Sidebar destra richiamata con una include -->
+			<?php
+				include ("../Html/sidebar2.php")
+			?>
 		
+		</div>
 	   
 		<!-- Footer richiamata con una include -->
 		<?php
