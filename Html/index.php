@@ -12,7 +12,7 @@
 
     	<!-- Header richiamato con una include -->
       	<?php 
-    		include ("../Html/header.php")
+    		include ("../Html/header.php")   
     	?>
     	
     	<div id="contenuto">
