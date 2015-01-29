@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<div id="sidebar2">
+<div id="sidebar2">
 
-	</div>
-</html>	
+</div>
