@@ -1,14 +1,17 @@
-body {
-	height: 800px;
-	width: 600px;
-}
-
 #contenuto {
+	padding: 30% 30%;
 	height: 50%;
 	background-color: #260D10;
 	font: 13px/20px Arial, sans-serif;
 	color: white;
 	}
+
+#content {
+	height: 100%;
+	width: 100%;
+	
+}
+
 
 #header {
 	color: #43161B;
@@ -49,12 +52,4 @@ li {
 	height: 120px;
 	text-align: center;
 	}
-
- #content {
-        margin-left: 21%;
-        margin-right: 21%;
-        padding-bottom: 10px;
-        padding-left: 10px;
-        min-height: 300px;
-    }
 
