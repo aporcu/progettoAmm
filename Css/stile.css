@@ -1,12 +1,13 @@
 #contenuto {
 	height: 800px;
-	background-color: #260D10;
+	background-color: white;
 	font: 13px/20px Arial, sans-serif;
 	color: #260D10;
 	}
 
 
 #header {
+	background-color: #260D10;
 	color: white;
 	font: 3em Arial;
 	text-align: center;
@@ -42,6 +43,8 @@ li {
 	}
 
 #footer {
+	background-color: #260D10;
 	height: 120px;
 	text-align: center;
+	color: white;
 	}
