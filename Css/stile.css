@@ -2,12 +2,12 @@
 	height: 800px;
 	background-color: #260D10;
 	font: 13px/20px Arial, sans-serif;
-	color: white;
+	color: #260D10;
 	}
 
 
 #header {
-	color: #43161B;
+	color: white;
 	font: 3em Arial;
 	text-align: center;
 	}
@@ -27,16 +27,16 @@ li {
 
 #sidebar {
 	width: 10%;
-	color: #43161B;
-	background-color: white;
+	color: white;
+	background-color: #260D10;
     float: left;
     height: 100%;
 	}
 
 #sidebar2 {
 	width: 10%;
-	color: #43161B;
-	background-color: white;
+	color: white;
+	background-color: #260D10;
     float: right;
     height: 100%;
 	}
