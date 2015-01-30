@@ -2,7 +2,7 @@
 	height: 800px;
 	background-color: white;
 	font: 13px/20px Arial, sans-serif;
-	color: #260D10;
+	color: #471F1F;
 	}
 
 
@@ -29,7 +29,7 @@ li {
 #sidebar {
 	width: 10%;
 	color: white;
-	background-color: #431314;
+	background-color: #471F1F;
     float: left;
     height: 100%;
 	}
@@ -37,13 +37,13 @@ li {
 #sidebar2 {
 	width: 10%;
 	color: white;
-	background-color: #260D10;
+	background-color: #471F1F;
     float: right;
     height: 100%;
 	}
 
 #footer {
-	background-color: #260D10;
+	background-color: #471F1F;
 	height: 120px;
 	text-align: center;
 	color: white;
