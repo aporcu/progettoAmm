@@ -44,13 +44,13 @@
 						<input type="radio" name="tipo" id="dolce" value="dolce"> </br>
 				
 				
-					<p>
+					
 						<!-- Input per titolo ricetta -->
 						<label for="titolo"> Titolo Ricetta </label>
 						<input type="text" name="titolo" id="titolo" value="Scegli un titolo">
-					</p>
+					
 
-					<p>
+					
 						<!-- Input per la descrizione della ricetta -->
 						<label for="descrizione"> Spiegazione ricetta </label>
 						<textarea rows="15" cols="45" name="descrizione" id="descrizione">
@@ -59,7 +59,7 @@
 
 					<button type="submit"> Aggiungi </button>
 
-					</p>
+					
 			</form>
 		</div>
     
