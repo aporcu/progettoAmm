@@ -35,6 +35,7 @@
 					<tr>
 						<th> Login </th>
 						<th></th>
+					<hr>
 					</tr>
 					<tr>
 						<td> <label for="nome">Username</label> </td>                     
