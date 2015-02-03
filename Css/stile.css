@@ -15,11 +15,13 @@
 
 /*css per link*/
 a:visited {
-	color: #7C1AC6;
+	color: white;
+	text-decoration: none;
 	}
 a:hover {
 	font-weight: bold;
 	}
+
 
 li {
 	list-style-type: circle;
