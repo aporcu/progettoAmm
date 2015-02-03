@@ -52,6 +52,12 @@
 				</form>
 			</div>
 
+
+			<!-- Footer richiamato con una include -->
+			<?php
+				include ("../Html/footer.php")
+			?>
+
 		</div>
 
 		<!-- Footer richiamato con una include -->
