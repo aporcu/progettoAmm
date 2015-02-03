@@ -1,9 +1,5 @@
-body {
-	height: 100%;
-	}
-	
 #contenuto {
-	height: 800px;
+	height: 100%;
 	background-color: white;
 	font: 13px/20px Arial, sans-serif;
 	color: #471F1F;

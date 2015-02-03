@@ -13,10 +13,10 @@
     	
     	
     	<div id="contenuto">
-    	<!-- Header richiamato con una include -->
-      	<?php 
-    		include ("../Html/header.php")   
-    	?>
+    		<!-- Header richiamato con una include -->
+      		<?php 
+    			include ("../Html/header.php")   
+    		?>
 
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
