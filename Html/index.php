@@ -28,29 +28,27 @@
 			?>
 
 			<div id="content">
+				<form method="post" action="login">
 				<table>
 					<tr>
 						<th> Login </th>
 						<th></th>
-					</tr> 
+					</tr>
 
-					
-					<form method="post" action="login">
-	
-						<tr>
-							<td> <label for="nome">Username</label> </td>                     
-							<td> <input name="nome" id="nome" type="text"/> </td>  
-						</tr>
-						<tr>
-							<td><label for="password">Password</label></td>
-							<td><input type="password" name="password" id="password"></td>
-						</tr>
+					<tr>
+						<td> <label for="nome">Username</label> </td>                     
+						<td> <input name="nome" id="nome" type="text"/> </td>  
+					</tr>
+					<tr>
+						<td><label for="password">Password</label></td>
+						<td><input type="password" name="password" id="password"></td>
+					</tr>
 
-						<tr>
-							<td><button type="submit">Login</button></td>
-						</tr>
-					</form>
+					<tr>
+						<td><button type="submit">Login</button></td>
+					</tr>
 				</table>
+				</form>
 			</div>
 
 		</div>
