@@ -31,7 +31,7 @@
 				<form method="post" action="login">
 				<table>
 					<tr>
-						<th> Login </th>
+						<th id="intestazione"> Login </th>
 						<th></th>
 					</tr>
 
