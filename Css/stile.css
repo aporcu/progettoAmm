@@ -14,7 +14,7 @@
 
 li {
 	list-style-type: circle;
-	font-size: 1.2em
+	font-size: 1.2em;
 	}
 th {
 	position: relative;
@@ -63,7 +63,6 @@ a:hover {
 	}
 #sidetitle {
 	position: relative;
-	font-size: 1.7em
 	left: 30px;
 	top: 12px;
 	}
