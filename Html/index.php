@@ -45,6 +45,7 @@
 					</tr>
 
 					<tr>
+						<td></td>
 						<td><button type="submit">Login</button></td>
 					</tr>
 				</table>
