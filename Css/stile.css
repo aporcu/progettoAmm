@@ -46,6 +46,12 @@ li {
 	left: 30px;
 	top: 12px;
 	}
+#naviglist{
+	position: relative;
+	top: 5px;
+	}
+
+
 
 #sidebar2 {
 	width: 10%;
