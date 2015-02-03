@@ -29,12 +29,10 @@
 
 			<div id="content">
 				<form method="post" action="login">
+				
+				<h2> Login </h2>
+				
 				<table>
-					<tr>
-						<th> Login </th>
-						<th></th>
-					</tr>
-					<tr><td></td><td></td></tr> <!-- riga vuota per distanziare il th dal resto -->
 					<tr>
 						<td> <label for="nome">Username</label> </td>                     
 						<td> <input name="nome" id="nome" type="text"/> </td>  
