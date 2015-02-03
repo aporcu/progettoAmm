@@ -41,7 +41,7 @@ li {
     float: left;
     height: 100%;
 	}
-#sidebar > h1 {
+.sidetitle {
 	position: relative;
 	left: 30px;
 	top: 15px;
