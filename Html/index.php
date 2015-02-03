@@ -10,12 +10,13 @@
 
     <body>
 
+    	
+    	
+    	<div id="contenuto">
     	<!-- Header richiamato con una include -->
       	<?php 
     		include ("../Html/header.php")   
     	?>
-    	
-    	<div id="contenuto">
 
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
@@ -31,7 +32,7 @@
 				<form method="post" action="login">
 				
 				<h2> Login </h2>
-				
+
 				<table>
 					<tr>
 						<td> <label for="nome">Username</label> </td>                     

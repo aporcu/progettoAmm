@@ -57,7 +57,7 @@ a:hover {
     float: left;
     height: 100%;
 	}
-.sidetitle {
+#sidetitle {
 	position: relative;
 	left: 30px;
 	top: 12px;
