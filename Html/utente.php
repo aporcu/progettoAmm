@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-	   	<title>Cucina</title>
+	   	<title>Cucina - Utente</title>
 	   	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
 	   	<link rel="shortcut icon" type="image/x-icon" href="../Immagini/icon.ico" />
 	   	<link href="../Css/stile.css" rel="stylesheet" type="text/css" media="screen" />

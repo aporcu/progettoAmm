@@ -10,39 +10,30 @@
 
     <body>
 
-    <!-- Header -->
-    	<header>
-    		<img id="logoimg" title="logo" alt="logo Cucina" src="../Immagini/logo.jpg" width="175" height="132"/>
-    		<h1> Cucina </h1>
-    	</header>
-    
-	<!-- Sidebar -->
-		<div id="sidebar">
-			<h2 class="sidetitle">Navigazione</h2>
-			<ul>
-				<li><a href="../Html/index.php">Home </a></li>
-				<li><a href="../Html/primi.php">Primi Piatti </a></li>
-				<li><a href="../Html/secondi.php">Secondi Piatti </a></li>
-				<li><a href="../Html/desserts.php">Desserts </a></li>
-			</ul>
+    	<!-- Header richiamato con una include -->
+      	<?php 
+    		include ("../Html/header.php")   
+    	?>
+    	
+    	<div id="contenuto">
+
+			<!-- Sidebar sinistra richiamata con una include -->
+			<?php 
+				include ("../Html/sidebar.php")
+			?>
+
+			<!-- Sidebar destra richiamata con una include -->
+			<?php
+				include ("../Html/sidebar2.php")
+			?>
+
 		</div>
-	   	
 
-
-	<!-- Footer -->
-		<footer>
-		<p>
-			<a href="http://validator.w3.org/check/referer" title="HTML Valido" target="_blank"> HTML Validator </a>
-			<a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS Valido" target="_blank"> CSS Validator </a>
-		</p>
-		</footer>
-
-
-
-
-
-
-
+		<!-- Footer richiamato con una include -->
+		<?php
+			include ("../Html/footer.php")
+		?>
 
 	</body>
 </html>
+
