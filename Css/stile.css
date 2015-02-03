@@ -15,7 +15,7 @@
 li {
 	list-style-type: circle;
 	}
-th {
+table > th {
 	font: 2em;
 	}
 
