@@ -32,7 +32,7 @@
 			<form method="post" action="aggiungi">	
 				<h2> Aggiungi una ricetta </h2>
 				<h3> Seleziona il tipo di ricetta</h3>
-					<p>
+				
 						<!-- radio buttons per la selezione del tipo di ricetta -->
 						<label for="primi"> Primo </label>
 						<input type="radio" name="tipo" id="primo" value="primo"> </br>
@@ -42,7 +42,7 @@
 		
 						<label for="dolce"> Dessert </label>
 						<input type="radio" name="tipo" id="dolce" value="dolce"> </br>
-					</p> 
+				
 				
 					<p>
 						<!-- Input per titolo ricetta -->
