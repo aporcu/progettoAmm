@@ -16,7 +16,6 @@
     	?>
     	
     	<div id="contenuto">
-    
 
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 

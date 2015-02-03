@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
     <head>
-	   	<title>Cucina - Admin</title>
+	   	<title>Cucina</title>
 	   	<meta http-equiv = "content-type" content = "text/html; charset=utf-8" />
 	   	<link rel="shortcut icon" type="image/x-icon" href="../Immagini/icon.ico" />
 	   	<link href="../Css/stile.css" rel="stylesheet" type="text/css" media="screen" />
@@ -12,17 +11,12 @@
 
     	<!-- Header richiamato con una include -->
       	<?php 
-    		include ("../Html/header.php")
+    		include ("../Html/header.php")   
     	?>
-
+    	
     	<div id="contenuto">
-		
-			<!-- Sidebar richiamata con una include -->
-			<?php 
-				include ("../Html/sidebaradmin.php")
-			?>
 
-			<div id="content">
+    	<div id="content">
 
 
 				<form method="post" action="aggiungi">	
@@ -56,15 +50,25 @@
 						<button type="submit"> Aggiungi </button>
 
 						</p>
-				</form>
-			</div>
+    
+
+			<!-- Sidebar sinistra richiamata con una include -->
+			<?php 
+				include ("../Html/sidebar.php")
+			?>
+
+			<!-- Sidebar destra richiamata con una include -->
+			<?php
+				include ("../Html/sidebar2.php")
+			?>
+
 		</div>
 
-		<!-- Footer richiamata con una include -->
+		<!-- Footer richiamato con una include -->
 		<?php
 			include ("../Html/footer.php")
 		?>
 
-
 	</body>
 </html>
+
