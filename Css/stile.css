@@ -6,12 +6,20 @@
 	}
 
 
+li {
+	list-style-type: circle;
+	}
+
+
+/*css per l'header*/
 #header {
 	background-color: #471F1F;
 	color: white;
 	font: 3em Arial;
 	text-align: center;
 	}
+/*----------------------------*/
+
 
 /*css per link*/
 a:active {
@@ -27,13 +35,10 @@ a:visited {
 a:hover {
 	font-weight: bold;
 	}
+/*----------------------------*/
 
 
-li {
-	list-style-type: circle;
-	}
-
-
+/* css per la sidebar sinistra*/
 #sidebar {
 	width: 10%;
 	color: white;
@@ -48,11 +53,12 @@ li {
 	}
 #naviglist{
 	position: relative;
-	top: 5px;
+	top: 7px;
 	}
+/*----------------------------*/
 
 
-
+/*css per la sidebar destra*/
 #sidebar2 {
 	width: 10%;
 	color: white;
@@ -60,10 +66,15 @@ li {
     float: right;
     height: 100%;
 	}
+/*----------------------------*/
 
+
+/*css per il footer*/
 #footer {
 	background-color: #471F1F;
 	height: 120px;
 	text-align: center;
 	color: white;
 	}
+/*----------------------------*/
+
