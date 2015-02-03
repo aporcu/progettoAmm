@@ -28,24 +28,29 @@
 			?>
 
 			<div id="content">
+				<table>
+					<tr>
+						<th> Login </th>
+						<th></th>
+					</tr> 
 
-	   			<h2>Login</h2>
-				<br/>       
+					
+					<form method="post" action="login">
 	
-				<form method="post" action="login">
-	
-				<!-- campo del form per lo username  -->
-				<label for="nome">Username</label>                       
-				<input name="nome" id="nome" type="text"/>
-				<br/>
+						<tr>
+							<td> <label for="nome">Username</label> </td>                     
+							<td> <input name="nome" id="nome" type="text"/> </td>  
+						</tr>
+						<tr>
+							<td><label for="password">Password</label></td>
+							<td><input type="password" name="password" id="password"></td>
+						</tr>
 
-				<!-- campo del form per la password -->
-				<label for="password">Password</label>
-				<input type="password" name="password" id="password">
-				<br/>
-
-				<button type="submit">Login</button>
-				</form>
+						<tr>
+							<td><button type="submit">Login</button></td>
+						</tr>
+					</form>
+				</table>
 			</div>
 
 		</div>
