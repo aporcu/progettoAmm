@@ -15,10 +15,12 @@
 li {
 	list-style-type: circle;
 	}
-#intestazione {
-	font-size: 2em;
+th {
+	font-size: 1.7em;
 	}
-
+td {
+	font-size: 1.2em;
+	}
 
 /*css per l'header*/
 #header {
