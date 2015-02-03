@@ -14,6 +14,12 @@
 	}
 
 /*css per link*/
+a:active {
+	font-style: italic;
+	}
+a:link {
+	color: white;
+	}
 a:visited {
 	color: white;
 	text-decoration: none;
