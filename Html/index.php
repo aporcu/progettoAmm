@@ -11,9 +11,9 @@
     <body>
 
     	<!-- Header richiamato con una include -->
-      		<?php 
-    			include ("../Html/header.php")   
-    		?>
+      	<?php 
+    		include ("../Html/header.php")   
+    	?>
     	
     	<div id="contenuto">
     
