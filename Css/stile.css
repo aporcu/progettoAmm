@@ -15,6 +15,9 @@
 li {
 	list-style-type: circle;
 	}
+th {
+	font: 2em;
+	}
 
 
 /*css per l'header*/
