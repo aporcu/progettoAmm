@@ -41,6 +41,11 @@ li {
     float: left;
     height: 100%;
 	}
+#sidebar h1 {
+	position: relative;
+	left: 30px;
+	top: 15px;
+	}
 
 #sidebar2 {
 	width: 10%;
