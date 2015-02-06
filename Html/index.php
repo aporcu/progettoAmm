@@ -12,7 +12,7 @@
 
     	<!-- Header richiamato con una include -->
       	<?php 
-    		include ("../Html/header.php")   
+    		include ("../Html/header.php");  
     	?>
     	
     	<div id="contenuto">
@@ -20,16 +20,16 @@
 
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
-				include ("../Html/sidebar.php")
+				include ("../Html/sidebar.php");
 			?>
 
 			<!-- Sidebar destra richiamata con una include -->
 			<?php
-				include ("../Html/sidebar2.php")
+				include ("../Html/sidebar2.php");
 			?>
 
 			<div id="content">
-				<form method="post" action="login">
+				<form method="post" action="connessione.php">
 
 				<table>
 					<tr>
@@ -57,7 +57,7 @@
 
 		<!-- Footer richiamato con una include -->
 		<?php
-			include ("../Html/footer.php")
+			include ("../Html/footer.php");
 		?>
 
 	</body>
