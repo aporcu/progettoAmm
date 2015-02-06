@@ -3,11 +3,11 @@
 	
 	try {  													//provo la connessione al database in caso contrario catturo l'eccezione
 			$db = new PDO("$dsn","$db_user","$db_psw");
-			echo "ok";
+			$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);  //imposta il lancio delle eccezioni
 
 	} 
 	catch (Exception $e) {
-			echo "problemi di connessione";
+			echo 'Attenzione:'.$e->getMessage();
 		
 	}
 ?>
