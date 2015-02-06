@@ -3,6 +3,7 @@
 	
 	try {  													//provo la connessione al database in caso contrario catturo l'eccezione
 			$db = new PDO("$dsn","$db_user","$db_psw");
+			echo "ok";
 
 	} 
 	catch (Exception $e) {
