@@ -1,11 +1,26 @@
 <?php 
 	include ("../Html/config.php");  	//richiamo il file di configurazione per il database
 
-$mysqli = new mysqli($db_host, $db_user, $db_psw, $db_name);
-if ($mysqli->connect_errno) {
-    echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
-}
-echo $mysqli->host_info . "\n";
+	$conn = new mysqli($db_host, $db_user, $db_psw, $db_name);
+		
+	if ($conn->connect_errno) {
+    	echo "Failed to connect to MySQL: (" . $conn->connect_errno . ") " . $conn->connect_error;
+	}
+	echo $conn->host_info . "\n";
+
+	$query="INSERT INTO utenti (username, password, idTipoUtente) VALUES (utenteprova, prova, 1)";
+
+	if (mysqli_query($conn, $query)) {
+		echo "inserito correttamente";
+	}
+	else {
+		echo "Errore: " .$mysqli_error($conn)
+	}
+	
+
+
+	//chiusura connessione
+	$conn->close();
 
 ?>
  
