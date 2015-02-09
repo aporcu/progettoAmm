@@ -8,7 +8,7 @@
 	}
 	echo $conn->host_info . "\n";
 
-	$query="INSERT INTO utenti (username, password, idTipoUtente) VALUES ('utenteprova', 'prova', '1')";
+	$query="INSERT INTO utenti (username, password, idTipoUtent) VALUES ('utenteprova', 'prova', '1')";
 
 	if (mysqli_query($conn, $query)) {
 		echo "inserito correttamente";
