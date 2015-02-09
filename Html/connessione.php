@@ -1,13 +1,11 @@
 <?php 
-	include ("../Html/config.php");  						//richiamo il file di configurazione per il database
-	
-	try {  													//provo la connessione al database in caso contrario catturo l'eccezione
-			$db = new PDO("$dsn","$db_user","$db_psw");
-			$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);  //imposta il lancio delle eccezioni
-			echo "ok";
-	} 
-	catch (Exception $e) {
-			echo 'Attenzione:'.$e->getMessage();
-		
-	}
+	include ("../Html/config.php");  	//richiamo il file di configurazione per il database
+
+$mysqli = new mysqli($db_host, $db_user, $db_psw, $db_name);
+if ($mysqli->connect_errno) {
+    echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
+}
+echo $mysqli->host_info . "\n";
+
 ?>
+ 
