@@ -57,6 +57,10 @@
 						<td><input type="text" name="titolo" id="titolo" value="Scegli un titolo"></td>
 					</tr>
 					<tr>
+						<td><label for="immagine"> Carica un'immagine </label></td>
+						<td><input type="file" name="immagine" id="immagine"></td>
+					</tr>
+					<tr>
 						<td><label for="descrizione"> Spiegazione ricetta </label></td>
 						<td><textarea rows="15" cols="45" name="descrizione" id="descrizione"></textarea></td>
 					</tr>
