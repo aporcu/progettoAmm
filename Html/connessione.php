@@ -7,18 +7,7 @@
     	echo "Failed to connect to MySQL: (" . $conn->connect_errno . ") " . $conn->connect_error;
 	}
 	echo $conn->host_info . "\n";
-
-	$query="INSERT INTO utenti (username, password, idTipoUtent) VALUES ('utenteprova', 'prova', '1')";
-
-	if (mysqli_query($conn, $query)) {
-		echo "inserito correttamente";
-	}
-	else {
-		echo "Errore: ".mysqli_error($conn);
-	}
 	
-
-
 	//chiusura connessione
 	$conn->close();
 

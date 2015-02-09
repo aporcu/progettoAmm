@@ -29,7 +29,7 @@
 			?>
 
 			<div id="content">
-				<form method="post" action="connessione.php">
+				<form method="post" action="login.php">
 
 				<table>
 					<tr>
