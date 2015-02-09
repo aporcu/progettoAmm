@@ -14,7 +14,7 @@
 		echo "inserito correttamente";
 	}
 	else {
-		echo "Errore: ".$mysqli_error($conn);
+		echo "Errore: ".mysqli_error($conn);
 	}
 	
 
