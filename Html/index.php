@@ -47,37 +47,13 @@
 				</table>
 				</form>
 			</div>
-			
+
 			<!-- Sidebar destra richiamata con una include -->
 			<?php
 				include ("../Html/sidebar2.php");
 			?>
 
-			<div id="content">
-				<form method="post" action="login.php">
-
-				<table>
-					<tr>
-						<th> Login </th>
-						<th></th>
-					</tr>
-					<tr>
-						<td> <label for="nome">Username</label> </td>                     
-						<td> <input name="nome" id="nome" type="text"/> </td>  
-					</tr>
-					<tr>
-						<td><label for="password">Password</label></td>
-						<td><input type="password" name="password" id="password"></td>
-					</tr>
-
-					<tr>
-						<td></td>
-						<td><button type="submit">Login</button></td>
-					</tr>
-				</table>
-				</form>
-			</div>
-
+		
 		</div>
 
 		<!-- Footer richiamato con una include -->
