@@ -23,8 +23,13 @@
 				include ("../Html/sidebar.php");
 			?>
 
-<div id="content">
-				<form method="post" action="login.php">
+			<!-- Sidebar destra richiamata con una include -->
+			<?php
+				include ("../Html/sidebar2.php");
+			?>
+
+			<div id="content">
+				<form method="post" action="login">
 
 				<table>
 					<tr>
@@ -48,12 +53,6 @@
 				</form>
 			</div>
 
-			<!-- Sidebar destra richiamata con una include -->
-			<?php
-				include ("../Html/sidebar2.php");
-			?>
-
-		
 		</div>
 
 		<!-- Footer richiamato con una include -->
