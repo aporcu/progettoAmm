@@ -5,6 +5,12 @@
 	color: #471F1F;
 	}
 
+#formricetta {
+	position: relative;
+	left: 30%;
+	top: 30%;
+	}
+
 #content {
 	position: relative;
 	left: 35%;
