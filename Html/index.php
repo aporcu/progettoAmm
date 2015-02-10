@@ -31,7 +31,7 @@
 			<div id="content">
 				<form method="post" action="login">
 
-				<table>
+				<table id="logintab">
 					<tr>
 						<th> Login </th>
 						<th></th>

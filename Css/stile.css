@@ -11,12 +11,10 @@
 	top: 25%;
 	}
 
-#content {
+#logintab {
 	position: relative;
-	left: 35%;
-	top: 40%;
-	}
-
+	
+}
 
 li {
 	list-style-type: circle;
