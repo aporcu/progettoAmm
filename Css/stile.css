@@ -1,6 +1,8 @@
-#contenuto {
-	overflow: inherit;
+body {
 	height: 800px;
+	}
+#contenuto {
+	height: 100%;
 	background-color: #F4F4E2;
 	font: 13px/20px Arial, sans-serif;
 	color: #471F1F;
