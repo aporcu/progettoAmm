@@ -1,4 +1,4 @@
-<div id="content">
+<div id="formricetta">
 
 			<form method="post" action="aggiungi">	
 				<table>
