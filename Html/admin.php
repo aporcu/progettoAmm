@@ -53,7 +53,7 @@
 						<td><input type="radio" name="tipo" id="dolce" value="dolce"></td>
 					</tr>
 					<tr>
-						<td><label for="titolo"> Titolo Ricetta </label></td>
+						<td style "height: 10%"; ><label for="titolo"> Titolo Ricetta </label></td>
 						<td><input type="text" name="titolo" id="titolo" value="Scegli un titolo"></td>
 					</tr>
 					<tr>
