@@ -28,7 +28,7 @@
 				include ("../Html/sidebar2.php");
 			?>
 
-			<div id="content">
+			
 				<form method="post" action="login">
 
 				<table id="logintab">
@@ -51,7 +51,7 @@
 					</tr>
 				</table>
 				</form>
-			</div>
+			
 
 		</div>
 
