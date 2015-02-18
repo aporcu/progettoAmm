@@ -10,10 +10,10 @@
 	$stmt= $conn->prepare($query);
 
 	//collego i parametri
-	$stmt->bind_param("ssss", $tit, $desc, $idTipo);
+	$stmt->bind_param("ssi", $tit, $desc, $idTipo);
 	$tit = 'sdkasjdas';
 	$desc = 'djhadjdkdkadskdskjadskj';
-	$idTipo = '1';
+	$idTipo = 1;
 
 	if ($stmt->execute()) {
     	echo "ok";
