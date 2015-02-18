@@ -1,6 +1,6 @@
 <div id="formricetta">
 
-			<form method="post" action="aggiungi">	
+			<form method="post" action="addricetta.php">	
 				<table>
 					<tr>
 						<th>Aggiungi una ricetta </th>
