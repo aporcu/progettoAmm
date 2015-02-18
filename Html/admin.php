@@ -28,10 +28,10 @@
 				include ("../Html/sidebar2.php");
 			?>
 
-		<!-- Richiamo il form per l'aggiunta delle ricette -->
-		<?php
-			include ("../Html/addricetta.php")
-		?>
+			<!-- Richiamo il form per l'aggiunta delle ricette -->
+			<?php
+				include ("../Html/formricetta.php")
+			?>
     
 
 
