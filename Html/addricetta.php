@@ -2,12 +2,12 @@
 	include ("../Html/connessione.php");
 
 	//inizializzo il prepared statement
-	$stmt = $conn->stmt_init();
+	//$stmt = $conn->stmt_init();
 
 	$query = "INSERT INTO ricette (titolo, immagine, descrizione, idTipoRicetta) VALUES (:titolo, :immagine, :descrizione, :idTipoRicetta)";
 
 	//preparo la query
-	$stmt->prepare($query);
+	$stmt = $conn->prepare($query);
 
 	//collego i parametri
 	$stmt->bind_param(':titolo', $_POST['titolo']);
