@@ -62,7 +62,7 @@ a:hover {
 /* css per la sidebar sinistra*/
 #sidebar {
 	position: relative;
-	width: 10%;
+	width: 14%;
 	color: white;
 	background-color: #471F1F;
     float: left;
@@ -83,7 +83,7 @@ a:hover {
 /*css per la sidebar destra*/
 #sidebar2 {
 	position: relative;
-	width: 10%;
+	width: 14%;
 	color: white;
 	background-color: #471F1F;
     float: right;
