@@ -7,7 +7,7 @@
 	$query = "INSERT INTO ricette (titolo, descrizione, idTipoRicetta) VALUES (?, ?, ?)";
 
 	//preparo la query
-	$stmt->prepare($query);
+	$stmt= $conn->prepare($query);
 
 	//collego i parametri
 	$stmt->bind_param("ssss", $tit, $desc, $idTipo);
