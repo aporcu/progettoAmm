@@ -12,15 +12,15 @@
 					</tr>
 					<tr>						
 						<td><label for="primi"> Primo </label></td>
-						<td><input type="radio" name="tipo" id="primo" value="primo"></td>
+						<td><input type="radio" name="tipo" id="primo" value="1"></td>
 					</tr>
 					<tr>
 						<td><label for="secondo"> Secondo </label></td>
-						<td><input type="radio" name="tipo" id="secondo" value="secondo"></td>
+						<td><input type="radio" name="tipo" id="secondo" value="2"></td>
 					</tr>
 					<tr>
 						<td><label for="dolce"> Dessert </label></td>
-						<td><input type="radio" name="tipo" id="dolce" value="dolce"></td>
+						<td><input type="radio" name="tipo" id="dolce" value="3"></td>
 					</tr>
 					<tr>
 						<td><label for="titolo"> Titolo Ricetta </label></td>
