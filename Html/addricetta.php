@@ -4,14 +4,16 @@
 	//inizializzo il prepared statement
 	$stmt = $conn->stmt_init();
 
-	$query = "INSERT INTO ricette (titolo, immagine, descrizione, idTipoRicetta) VALUES (?, ?, ?, ?)";
+	$query = "INSERT INTO ricette (titolo, descrizione, idTipoRicetta) VALUES (?, ?, ?)";
 
 	//preparo la query
 	$stmt->prepare($query);
 
 	//collego i parametri
-	$stmt->bind_param("ssss", $_POST['titolo'], $_POST['immagine'], $_POST['descrizione'], $_POST['idTipoRicetta']);
-
+	$stmt->bind_param("ssss", $tit, $desc, $idTipo);
+	$tit = 'sdkasjdas';
+	$desc = 'djhadjdkdkadskdskjadskj';
+	$idTipo = '1';
 
 	if ($stmt->execute()) {
     	echo "ok";
