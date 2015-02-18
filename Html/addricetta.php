@@ -2,7 +2,7 @@
 	include ("../Html/connessione.php");
 
 	//inizializzo il prepared statement
-	$stmt = $conn->stmt_init();
+	//$stmt = $conn->stmt_init();
 
 	$query = "INSERT INTO ricette (titolo, descrizione, idTipoRicetta) VALUES (?, ?, ?)";
 
