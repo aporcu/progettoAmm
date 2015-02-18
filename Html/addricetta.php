@@ -4,16 +4,13 @@
 	//inizializzo il prepared statement
 	//$stmt = $conn->stmt_init();
 
-	$query = "INSERT INTO ricette (titolo, immagine, descrizione, idTipoRicetta) VALUES (:titolo, :immagine, :descrizione, :idTipoRicetta)";
+	$query = "INSERT INTO ricette (titolo, immagine, descrizione, idTipoRicetta) VALUES (?, ?, ?, ?)";
 
 	//preparo la query
 	$stmt = $conn->prepare($query);
 
 	//collego i parametri
-	$stmt->bind_param(':titolo', $_POST['titolo']);
-	$stmt->bind_param(':immagine', $_POST['immagine']);
-	$stmt->bind_param(':descrizione', $_POST['descrizione']);
-	$stmt->bind_param(':idTipoRicetta', $_POST['idTipoRicetta']);
+	$stmt->bind_param("ssss", $_POST['titolo'], $_POST['immagine'], $_POST['descrizione'], $_POST['idTipoRicetta']);
 
 
 	if ($stmt->execute()) {
@@ -23,6 +20,6 @@
 		echo "zobbia";
 	}
 
-	$var=$_POST['titolo'];
-	echo $var;
+	//$var=$_POST['titolo'];
+	//echo $var;
 ?>
