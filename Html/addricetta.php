@@ -1,4 +1,4 @@
 <?php 
-	$var=$_POST[titolo];
+	$var=$_POST['titolo'];
 	echo $var;
 ?>
