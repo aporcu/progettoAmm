@@ -19,7 +19,6 @@
 	}
 .tabtit {
 	vertical-align: top;
-	color: #471F1F;
 }
 
 .tabtext{
@@ -61,6 +60,10 @@ td {
 
 
 /*css per link*/
+#homeut > a{
+	color: #471F1F;
+}
+
 a:active {
 	font-style: italic;
 	}
