@@ -36,6 +36,8 @@
     	<h2>Accesso al progetto</h2>
     	<p>
     		La home page del progetto è: <a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/home.php">http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/home.php</a>
+    		La home admin è: <a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/admin.php">http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/admin.php</a>
+    		La home utente è : <a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/utente.php">http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/admin.php</a>
     	</p>
     
 

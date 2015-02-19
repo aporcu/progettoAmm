@@ -27,6 +27,9 @@
 				include ("../Html/sidebar2.php");
 			?>
 
+			<div id="homeut">
+			<img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg"/>
+
 		</div>
 
 		<!-- Footer richiamato con una include -->
