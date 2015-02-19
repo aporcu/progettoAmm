@@ -19,7 +19,7 @@
 
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
-				include ("../Html/sidebaruser.php");
+				include ("../Html/sidebar.php");
 			?>
 
 			<!-- Sidebar destra richiamata con una include -->
