@@ -19,6 +19,7 @@
 	}
 .tabtit {
 	vertical-align: top;
+	color: #471F1F;
 }
 
 .tabtext{
@@ -33,9 +34,6 @@
 	}
 #spieg{
 	vertical-align: top;
-}
-.paragr {
-	color: #471F1F;
 }
 /*--------------------------*/
 li {
