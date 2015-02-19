@@ -1,8 +1,0 @@
-$query="INSERT INTO utenti (username, password, idTipoUtente) VALUES ('utenteprova', 'prova', '1')";
-
-	if (mysqli_query($conn, $query)) {
-		echo "inserito correttamente";
-	}
-	else {
-		echo "Errore: " .mysqli_error($conn);
-	}
