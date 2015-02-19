@@ -17,6 +17,10 @@
 	margin-left: 45%;
 	top: 40%;
 	}
+.tabtit {
+	position: relative;
+	bottom: 30px;
+}
 
 #homeut{
 	position: relative;
