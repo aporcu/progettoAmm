@@ -26,6 +26,6 @@
 		echo "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
 	}
 
-	echo "Inserito!";
+	echo "La ricetta è stata inserita correttamente!";
 
 ?>
