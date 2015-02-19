@@ -1,3 +1,4 @@
+/* css contenuti */
 #contenuto {
 	height: 800px;
 	background-color: #F4F4E2;
@@ -23,6 +24,10 @@
 	top: 25%;
 	}
 
+#logoprimi{
+	float: left;
+	}
+/*--------------------------*/
 li {
 	list-style-type: circle;
 	font-size: 1.1em;
