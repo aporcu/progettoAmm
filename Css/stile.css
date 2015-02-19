@@ -23,7 +23,6 @@
 	margin-left: 20%;
 	top: 25%;
 	}
-
 /*--------------------------*/
 li {
 	list-style-type: circle;
@@ -42,7 +41,6 @@ td {
 /*css per l'header*/
 #header {
 	background-color: #471F1F;
-	height: 150px;
 	color: white;
 	font: 3em Arial;
 	text-align: center;

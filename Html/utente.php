@@ -29,8 +29,8 @@
 
 			<div id="homeut">
 				
-				<h3> Primi Piatti </h3>
 				<img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg" width="150" height="80"/>
+				<h3> Primi Piatti </h3>
 				qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf 
 
 
