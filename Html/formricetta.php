@@ -7,20 +7,14 @@
 						<th></th>
 					</tr>
 					<tr>
-						<td>Seleziona il tipo di ricetta</td>
-						<td></td>
-					</tr>
-					<tr>						
-						<td><label for="primi"> Primo </label></td>
-						<td><input type="radio" name="tipo" id="primo" value="1" checked></td>
-					</tr>
-					<tr>
-						<td><label for="secondo"> Secondo </label></td>
-						<td><input type="radio" name="tipo" id="secondo" value="2"></td>
-					</tr>
-					<tr>
-						<td><label for="dolce"> Dessert </label></td>
-						<td><input type="radio" name="tipo" id="dolce" value="3"></td>
+						<td><label for="tipo"> Seleziona il tipo di ricetta </label></td>
+						<td>
+							<select name="tipo" id="tipo"> 
+								<option value="1"> Primi </option>
+								<option value="2"> Secondi </option>
+								<option value="3"> Dolci </option>
+							</select>
+						</td>
 					</tr>
 					<tr>
 						<td><label for="titolo"> Titolo Ricetta </label></td>

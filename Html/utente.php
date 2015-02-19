@@ -31,7 +31,7 @@
 				<table>
 					<tr>
 						<td><img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg" width="200" height="110"/></td>
-						<td class="tabtit"><h3> Primi Piatti </h3></td>
+						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/primi.php"><h3> Primi Piatti </h3></a></td>
 					</tr>
 						<td></td>
 						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
@@ -41,7 +41,7 @@
 				<table>
 					<tr>
 						<td><img id="logosecondi" title="secondi" alt="Miniatura Secondi" src="../Immagini/secondi.jpg" width="200" height="110"/></td>
-						<td class="tabtit"><h3> Secondi Piatti </h3></td>
+						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/secondi.php"><h3> Secondi Piatti </h3></a></td>
 					</tr>
 						<td></td>
 						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
@@ -51,7 +51,7 @@
 				<table>
 					<tr>
 						<td><img id="logodolci" title="dolci" alt="Miniatura Dolci" src="../Immagini/dolci.jpg" width="200" height="110"/></td>
-						<td class="tabtit"><h3> Desserts </h3></td>
+						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/desserts.php"><h3> Desserts </h3></a></td>
 					</tr>
 						<td></td>
 						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
