@@ -28,7 +28,7 @@
 			?>
 
 			<div id="homeut">
-			<img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg"/>
+			<img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg" width="50" height="50" />
 
 		</div>
 
