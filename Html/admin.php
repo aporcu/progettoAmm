@@ -23,7 +23,7 @@
     	
 			<!-- Sidebar sinistra richiamata con una include -->
 			<?php 
-				include ("../Html/sidebar.php");
+				include ("../Html/sidebaradmin.php");
 			?>
 
 			<!-- Sidebar destra richiamata con una include -->
