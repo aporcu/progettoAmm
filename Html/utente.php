@@ -38,7 +38,7 @@
 				qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf 
 
 				<img id="logodolci" title="dolci" alt="Miniatura Dolci" src="../Immagini/dolci.jpg" width="150" height="80"/>
-				<h3> Secondi Piatti </h3>
+				<h3> Desserts </h3>
 				qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf 
 
 			</div>
