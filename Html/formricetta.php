@@ -27,7 +27,7 @@
 						<td><input type="text" name="titolo" id="titolo" placeholder="..."></td>
 					</tr>
 					<tr>
-						<td><label for="descrizione"> Spiegazione ricetta </label></td>
+						<td id="spieg"><label for="descrizione"> Spiegazione ricetta </label></td>
 						<td><textarea rows="15" cols="45" name="descrizione" id="descrizione" placeholder="..."></textarea></td>
 					</tr>
 					<tr>
