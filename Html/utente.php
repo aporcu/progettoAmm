@@ -34,7 +34,7 @@
 						<td class="tabtit"><h3> Primi Piatti </h3></td>
 					</tr>
 						<td></td>
-						<td>qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
 					</tr>
 				</table>
 
@@ -44,7 +44,7 @@
 						<td class="tabtit"><h3> Secondi Piatti </h3></td>
 					</tr>
 						<td></td>
-						<td>qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
 					</tr>
 				</table>
 
@@ -54,7 +54,7 @@
 						<td class="tabtit"><h3> Desserts </h3></td>
 					</tr>
 						<td></td>
-						<td>qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
 					</tr>
 				</table>
 			</div>

@@ -22,6 +22,11 @@
 	bottom: 50px;
 }
 
+.tabtext{
+	position: relative;
+	bottom: 50px;
+}
+
 #homeut{
 	position: relative;
 	margin-left: 20%;
