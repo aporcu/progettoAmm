@@ -30,6 +30,7 @@
 			<div id="homeut">
 			<img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg" width="100" height="56" />
 
+			</div>
 		</div>
 
 		<!-- Footer richiamato con una include -->
