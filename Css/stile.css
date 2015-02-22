@@ -15,6 +15,7 @@
 
 /* css contenuti */
 #contenuto {
+	padding-top: 10%;
 	height: 800px;
 	background-color: #F4F4E2;
 	font: 13px/20px Arial, sans-serif;
