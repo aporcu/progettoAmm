@@ -1,12 +1,14 @@
 /* css tabella risultati */
 
 #searchcont {
-   border-collapse: collapse;
+	position: relative;
+	margin-left: 35%;
+    border-collapse: collapse;
 }
 
 #searchcont td {
-  border: 0.1em solid black;
-  padding: 0.3em 0.3em;
+ 	border: 0.1em solid black;
+  	padding: 0.3em 0.3em;
 }
 
 /* css contenuti */
