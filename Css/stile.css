@@ -3,7 +3,7 @@
 #searchcont {
 	position: relative;
 	margin-left: 35%;
-	top: 25%;
+	margin-top: 25%;
     border-collapse: collapse;
 }
 
@@ -11,6 +11,8 @@
  	border: 0.1em solid black;
   	padding: 0.3em 0.3em;
 }
+/*--------------------------*/
+
 
 /* css contenuti */
 #contenuto {
