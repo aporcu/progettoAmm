@@ -18,18 +18,18 @@
 	
 	$namepg = $_POST['namepg'];
 
-// eseguiamo la query
+	// eseguiamo la query
 	if(!$stmt->execute()) {	//gestione dell'errore
 		echo "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
 	}
 	
-	$stmt->store_result();
+	//$stmt->store_result();
    
 	$stmt->bind_result($idRicetta, $titolo, $descrizione);
 	
-// ciclo sulle righe che la query ha restituito
+	// ciclo sulle righe che la query ha restituito
 	while($stmt->fetch()){
-// ho nelle varibili dei risultati il contenuto delle colonne
+	// ho nelle varibili dei risultati il contenuto delle colonne
 			echo "<tr>
 						<td>$idRicetta</td>
 						<td>$titolo</td>
@@ -37,6 +37,6 @@
 					</tr>";
 	}
 
-$stmt->close();
+	$stmt->close();	//libera le risorse dello statement
 
 ?>

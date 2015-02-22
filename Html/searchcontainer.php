@@ -1,5 +1,5 @@
 <div id="container">
-
+				<!-- tabella per ricette visualizzate -->
 				<table id="searchcont">
 				<tr>
 					<td>Numero ricetta</td>

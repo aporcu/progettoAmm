@@ -30,6 +30,7 @@
 				include ("../Html/sidebar2.php");
 			?>
 			
+			<!-- Tabelle ricette richiamate con una include -->
 			<?php
 				include ("../Html/searchcontainer.php")
 			?>

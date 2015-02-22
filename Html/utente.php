@@ -27,6 +27,7 @@
 				include ("../Html/sidebar2.php");
 			?>
 
+			<!-- tabelle per la scelta della categoria ricette -->
 			<div id="homeut">
 				<table>
 					<tr>
