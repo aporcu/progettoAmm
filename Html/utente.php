@@ -33,6 +33,7 @@
 						<td><img id="logoprimi" title="primi" alt="Miniatura Primi" src="../Immagini/primi.jpg" width="200" height="110"/></td>
 						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/primi.php"> Primi Piatti </a></td>
 					</tr>
+					<tr>
 						<td></td>
 						<td class="tabtext">Qui troverai ricette per preparare dei fantastici primi piatti!</td>
 					</tr>
