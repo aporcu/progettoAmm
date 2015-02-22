@@ -11,7 +11,6 @@ $(document).ready(function () {
                 data: $('#formRicet').serialize(),     //prepara la querystring da inviare al server
                 success: function(data) {
                 		 if (data==1) {
-                		 alert("inserito!");
                       $("#formricetta").remove(); //sostituisce il contenuto html del div con i dati restituiti dal server
                       }
                       else {

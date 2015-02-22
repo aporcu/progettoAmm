@@ -34,7 +34,7 @@
 						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/primi.php"> Primi Piatti </a></td>
 					</tr>
 						<td></td>
-						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">Qui troverai ricette per preparare dei fantastici primi piatti!</td>
 					</tr>
 				</table>
 
@@ -43,18 +43,20 @@
 						<td><img id="logosecondi" title="secondi" alt="Miniatura Secondi" src="../Immagini/secondi.jpg" width="200" height="110"/></td>
 						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/secondi.php"> Secondi Piatti </a></td>
 					</tr>
+					<tr>
 						<td></td>
-						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">Qui troverai ricette per preparare dei fantastici secondi!</td>
 					</tr>
 				</table>
 
 				<table>
 					<tr>
 						<td><img id="logodolci" title="dolci" alt="Miniatura Dolci" src="../Immagini/dolci.jpg" width="200" height="110"/></td>
-						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/desserts.php"> Desserts </a></td>
+						<td class="tabtit"><a href="http://spano.sc.unica.it/amm2014/porcuAlessandro/Html/desserts.php"> Dessert </a></td>
 					</tr>
+					<tr>
 						<td></td>
-						<td class="tabtext">qui sfkldjsdf dfkljsfdlkja asfadflkjasdfadf sadfjkasdkfjasdf</td>
+						<td class="tabtext">Qui troverai ricette per preparare dei fantastici dessert!</td>
 					</tr>
 				</table>
 			</div>

@@ -3,7 +3,7 @@
 
 //Controllo presenza campi vuoti
 if(empty($_POST["titolo"]) || empty($_POST["descrizione"])){
-  echo "Ci sono campi vuoti!\n Impossibile procedere!";
+  echo "Ci sono campi vuoti!\n Controllare i campi!";
   
 }
 

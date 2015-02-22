@@ -4,6 +4,6 @@
 		<li><a href="../Html/admin.php">Home </a></li>
 		<li><a href="../Html/primi.php">Primi Piatti </a></li>
 		<li><a href="../Html/secondi.php">Secondi Piatti </a></li>
-		<li><a href="../Html/desserts.php">Desserts </a></li>
+		<li><a href="../Html/desserts.php">Dessert </a></li>
 	</ul>
 </div>
