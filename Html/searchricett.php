@@ -23,7 +23,7 @@
 		echo "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
 	}
 	
-	//$stmt->store_result();
+	$stmt->store_result();
    
 	$stmt->bind_result($idRicetta, $titolo, $descrizione);
 	
@@ -33,7 +33,7 @@
 			echo "<tr>
 						<td>$idRicetta</td>
 						<td>$titolo</td>
-						<td><textarea rows='4' cols='50'>$descrizione</textarea></td>
+						<td><textarea rows='4' cols='50' disabled>$descrizione</textarea></td>
 					</tr>";
 	}
 
